@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "725397c034963ac4be0b973a9a49ac98",
+    "revision": "f182a08d4e421c126afcb546a5a4c59c",
     "url": "/index.html"
   },
   {
-    "revision": "36f6a354e50a1e704a01",
+    "revision": "2538b31b52c190917bc3",
     "url": "/static/css/2.fb9ed26a.chunk.css"
   },
   {
-    "revision": "338b6e1913d6ec653fa8",
-    "url": "/static/css/main.e6bdf399.chunk.css"
+    "revision": "b10f1558c5594ba218b8",
+    "url": "/static/css/main.c2d5823a.chunk.css"
   },
   {
-    "revision": "36f6a354e50a1e704a01",
-    "url": "/static/js/2.98815cf7.chunk.js"
+    "revision": "2538b31b52c190917bc3",
+    "url": "/static/js/2.e5202d31.chunk.js"
   },
   {
     "revision": "87984cad984dae3222b2a1d0861003a4",
-    "url": "/static/js/2.98815cf7.chunk.js.LICENSE"
+    "url": "/static/js/2.e5202d31.chunk.js.LICENSE"
   },
   {
-    "revision": "338b6e1913d6ec653fa8",
-    "url": "/static/js/main.912c6535.chunk.js"
+    "revision": "b10f1558c5594ba218b8",
+    "url": "/static/js/main.b83f2add.chunk.js"
   },
   {
     "revision": "ae767fef2a9e9178f733",
     "url": "/static/js/runtime-main.b79fe6b7.js"
+  },
+  {
+    "revision": "b744f9a1bdc8add9c3f340e8decb62fa",
+    "url": "/static/media/1200px-Taipei_Veterans_General_Hospital_Emblem.svg.b744f9a1.png"
   },
   {
     "revision": "def74a6e24dd5c88dc072e2585015295",
